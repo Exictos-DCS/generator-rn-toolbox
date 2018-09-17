@@ -1,5 +1,5 @@
 {
-  "name": "generator-rn-toolbox",
+  "name": "@asseco/generator-rn-toolbox",
   "version": "0.0.1",
   "description": "React-Native generators to manage your react-native assets",
   "scripts": {
