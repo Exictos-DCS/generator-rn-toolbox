@@ -50,10 +50,6 @@ class ResourcesGenerator extends Base {
     });
   }
 
-  initializing() {
-    this.composeWith('rn-toolbox:checkversion');
-  }
-
   prompting() {
     if (this.options.projectName) {
       this.projectName = this.options.projectName;

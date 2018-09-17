@@ -1,6 +1,0 @@
-<%= content %>
-# Fastlane
-dist
-fastlane/report.xml
-fastlane/.env.*.secret
-*.back
